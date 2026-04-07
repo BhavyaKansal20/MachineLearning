@@ -1,0 +1,23 @@
+# Ignore Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Jupyter Notebook checkpoints and internal files
+.ipynb_checkpoints/
+.virtual_documents/
+*/.ipynb_checkpoints/*
+
+# Ignore your sync script
+sync.command
+sync.sh
+
+# Ignore local config or temporary files
+.env
+*.log
+.vscode/
+.idea/
+
+# Allow folders, but keep them clean
+# (Folders like Datasets/ or Projects/ will still go up, 
+# but the hidden trash inside them will be ignored)
