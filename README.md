@@ -1,6 +1,6 @@
 <div align="center">
 
-![Machine Learning Banner](https://raw.githubusercontent.com/BhavyaKansal20/MachineLearning/main/banner.png)
+![Machine Learning Banner](banner.png)
 
 <br/>
 
